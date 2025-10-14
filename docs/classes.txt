@@ -1,0 +1,10 @@
+notebook
+bin
+pen
+bottle
+Chair
+keyboard
+mouse
+Mugs
+phone
+stapler
