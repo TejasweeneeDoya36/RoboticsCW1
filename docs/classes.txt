@@ -1,10 +1,10 @@
-notebook
-bin
-pen
-bottle
 Chair
+Mug
+bin
+bottle
 keyboard
 mouse
-Mugs
+notebook
+pen
 phone
 stapler
