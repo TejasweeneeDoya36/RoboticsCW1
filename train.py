@@ -122,7 +122,6 @@ def evaluate(model, loader, device):
 
 def train(args):
     """Main training orchestration.
-
     - Builds dataloaders
     - Creates MobileNetV2 with ImageNet weights (for transfer learning)
     - Freezes conv features; trains classifier head with AdamW
