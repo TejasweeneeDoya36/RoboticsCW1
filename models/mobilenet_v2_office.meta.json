@@ -1,16 +1,16 @@
 {
   "classes": [
-    "Book",
     "Chair",
-    "Mugs",
+    "Mug",
     "bin",
     "bottle",
     "keyboard",
     "mouse",
     "notebook",
+    "pen",
     "phone",
     "stapler"
   ],
   "img_size": 224,
-  "best_val_macro_f1": 0.822225079224004
+  "best_val_macro_f1": 0.9127079353983903
 }
